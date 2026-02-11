@@ -6,6 +6,7 @@ const nextConfig: NextConfig = {
     unoptimized: true,
   },
   basePath: '/Cemetery-AI',
+  assetPrefix: '/Cemetery-AI',
   trailingSlash: true,
 };
 
