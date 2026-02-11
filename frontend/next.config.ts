@@ -5,8 +5,7 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
-  // Ensure the base path matches the repo name if not a custom domain
-  // basePath: '/Cemetery-AI', 
+  basePath: '/Cemetery-AI',
 };
 
 export default nextConfig;
